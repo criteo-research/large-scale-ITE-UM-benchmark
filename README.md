@@ -13,4 +13,4 @@ This repository contains code and data to reproduce the results of the paper "A 
 * To reproduce the results of Table 3 and Figure 3, please install the required packages from `um_requirements.txt` and run the "UM-experiments.ipynb" notebook.
 
 ## CRITEO-ITE dataset
-To generate the data and reproduce the results of Table 4, please install the required packages from `um_requirements.txt` and run the "ITE-experiments.ipynb" notebook.
+To generate the data and reproduce the results of Table 4, please install the required packages from `ite_requirements.txt` and run the "ITE-experiments.ipynb" notebook.
