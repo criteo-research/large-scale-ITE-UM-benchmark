@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+tensorflow==2.3
+matplotlib
+tqdm
+joblib
+scikit-learn
+iterative-stratification
